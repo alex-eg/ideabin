@@ -1,0 +1,3 @@
+*** Ease deck creation for ANKI
+Input list of kanji, recieve deck with reading and meaning on the opposite side.
+For Android, I think.
