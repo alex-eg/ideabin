@@ -1,0 +1,4 @@
+Idea is to have a mechanism to track and sync all necessary files, like logs, notes, orgmode diaries, and so on.
+Tracking must be one time, sync must happen automatically.
+
+I think git may be involved, and also cron or something like that.
